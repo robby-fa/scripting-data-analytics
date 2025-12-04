@@ -1,0 +1,16 @@
+product_id,product_name,category,price,stock,supplier
+P001,Laptop ASUS,Electronics,8500000,25,Supplier A
+P002,Mouse Wireless,Electronics,150000,100,Supplier A
+P003,Keyboard Mechanical,Electronics,750000,50,Supplier A
+P004,Monitor LED 24inch,Electronics,2500000,30,Supplier B
+P005,Sepatu Olahraga Nike,Fashion,1200000,75,Supplier C
+P006,Kaos Polo,Fashion,250000,150,Supplier C
+P007,Celana Jeans,Fashion,400000,80,Supplier C
+P008,Tas Ransel,Fashion,350000,60,Supplier D
+P009,Headphone Bluetooth,Electronics,500000,45,Supplier A
+P010,Smartwatch,Electronics,2000000,35,Supplier B
+P011,Power Bank 20000mAh,Electronics,300000,90,Supplier B
+P012,Jaket Hoodie,Fashion,450000,70,Supplier C
+P013,Sandal Casual,Fashion,180000,120,Supplier D
+P014,Charger Fast Charging,Electronics,200000,110,Supplier A
+P015,Speaker Portable,Electronics,800000,40,Supplier B

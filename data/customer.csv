@@ -1,0 +1,16 @@
+customer_id,name,email,city,registration_date,age,gender
+C001,Budi Santoso,budi.santoso@email.com,Jakarta,15/01/2023,28,M
+C002,Siti Rahayu,siti.rahayu@email.com,Bandung,20/02/2023,34,F
+C003,Ahmad Hidayat,ahmad.hidayat@email.com,Surabaya,28/01/2023,25,M
+C004,Dewi Lestari,dewi.lestari@email.com,Jakarta,10/03/2023,31,F
+C005,Rudi Hartono,rudi.hartono@email.com,Medan,05/02/2023,29,M
+C006,Maya Anggraini,maya.anggraini@email.com,Yogyakarta,22/03/2023,27,F
+C007,Andi Wijaya,andi.wijaya@email.com,Semarang,18/01/2023,35,M
+C008,Rina Susanti,rina.susanti@email.com,Surabaya,01/04/2023,26,F
+C009,Hendra Gunawan,hendra.gunawan@email.com,Jakarta,14/02/2023,32,M
+C010,Fitri Handayani,fitri.handayani@email.com,Bandung,05/03/2023,30,F
+C011,Bambang Prasetyo,bambang.prasetyo@email.com,Malang,25/01/2023,33,M
+C012,Lina Marlina,lina.marlina@email.com,Jakarta,10/04/2023,28,F
+C013,Agus Setiawan,agus.setiawan@email.com,Denpasar,28/02/2023,36,M
+C014,Putri Ayu,putri.ayu@email.com,Surabaya,15/03/2023,24,F
+C015,Dedi Kurniawan,dedi.kurniawan@email.com,Jakarta,30/01/2023,29,M
